@@ -11,7 +11,7 @@ int main() {
    if (integer2 < integer1)
    {
     cout << "Second integer can't be less than the first." << endl;
-    cout << "Please run the program again." << endl;
+    cout << "Please run the program again.";
    }
    else
    {
